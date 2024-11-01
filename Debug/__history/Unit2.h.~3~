@@ -10,7 +10,8 @@ class TForm1;
 
 class TForm2 : public TForm
 {
-__published: // IDE-managed Components   // Button to open Form1
+__published: // IDE-managed Components
+    TButton *btnSolve;   // Button to open Form1
     TButton *btnGenerate; // Button for future use (to generate something)
     void __fastcall btnSolveClick(TObject *Sender);   // Event for Solve button
     void __fastcall btnGenerateClick(TObject *Sender); // Event for Generate button

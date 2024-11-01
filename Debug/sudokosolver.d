@@ -969,4 +969,8 @@
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\vcl\Vcl.ListActns.hpp \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\tchar.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\sec_api\tchar_s.h \
-  sudokosolver.cpp
+  sudokosolver.cpp Win64x\Debug\Unit2.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\rtl\Classes.hpp \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\vcl\Controls.hpp \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\vcl\StdCtrls.hpp \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\vcl\Forms.hpp

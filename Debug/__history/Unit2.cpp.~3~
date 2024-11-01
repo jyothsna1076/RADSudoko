@@ -1,7 +1,7 @@
 #include <vcl.h>
 #include "Unit2.h"
 #include "Unit1.h" // Include Form1 header
-#include "Unit3.h"
+#include "Unit3.h" // Include Form3 header for choosing the solving method
 
 #pragma hdrstop
 #pragma package(smart_init)
@@ -17,11 +17,8 @@ __fastcall TForm2::TForm2(TComponent* Owner) : TForm(Owner)
 // Button click event to show Form3 for solving method selection
 void __fastcall TForm2::btnSolveClick(TObject *Sender)
 {
-    if (!Form1) {
-        ShowMessage("Form1 is not initialized!");
-        return;
-	}
-	Form1->Show();
+    // Instead of creating and showing Form1, show Form3
+    Form3->ShowModal(); // Show Form3 to choose solving method
 }
 
 // Button click event for Generate (to be updated later)
