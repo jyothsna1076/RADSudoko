@@ -28,9 +28,6 @@ void __fastcall TForm2::btnSolveClick(TObject *Sender)
 void __fastcall TForm2::btnGenerateClick(TObject *Sender)
 {
     // Placeholder for generate functionality
-   // ShowMessage("Generate button clicked! This functionality will be implemented later.");
-	Form1->Show();
-   Form1->generating(this);
-  // Close();
+    ShowMessage("Generate button clicked! This functionality will be implemented later.");
 }
 

@@ -11,11 +11,11 @@
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\crtdefs.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\corecrt.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\_mingw.h \
-  C:\Program\ Files\ (x86)\Embarcadero\Studio\23.0\include\x86_64-w64-mingw32\_mingw_mac.h \
-  C:\Program\ Files\ (x86)\Embarcadero\Studio\23.0\include\x86_64-w64-mingw32\_mingw_secapi.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\_mingw_mac.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\_mingw_secapi.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\lib\clang\15.0.7\include\vadefs.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\vadefs.h \
-  C:\Program\ Files\ (x86)\Embarcadero\Studio\23.0\include\x86_64-w64-mingw32\sdks\_mingw_ddk.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\sdks\_mingw_ddk.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\stddef.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\lib\clang\15.0.7\include\stddef.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\sdk\windows.h \

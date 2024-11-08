@@ -11,11 +11,11 @@
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\crtdefs.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\corecrt.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\_mingw.h \
-  C:\Program\ Files\ (x86)\Embarcadero\Studio\23.0\include\x86_64-w64-mingw32\_mingw_mac.h \
-  C:\Program\ Files\ (x86)\Embarcadero\Studio\23.0\include\x86_64-w64-mingw32\_mingw_secapi.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\_mingw_mac.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\_mingw_secapi.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\lib\clang\15.0.7\include\vadefs.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\vadefs.h \
-  C:\Program\ Files\ (x86)\Embarcadero\Studio\23.0\include\x86_64-w64-mingw32\sdks\_mingw_ddk.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\sdks\_mingw_ddk.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\stddef.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\lib\clang\15.0.7\include\stddef.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\sdk\windows.h \
@@ -989,6 +989,58 @@
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__filesystem\path_iterator.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__filesystem\recursive_directory_iterator.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__filesystem\u8path.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\queue \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\deque \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\set \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__tree \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\random \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\bernoulli_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\uniform_real_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\generate_canonical.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\binomial_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\cauchy_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\chi_squared_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\gamma_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\exponential_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\clamp_to_integral.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\default_random_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\linear_congruential_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\is_seed_sequence.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\discard_block_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\discrete_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\numeric \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\accumulate.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\adjacent_difference.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\exclusive_scan.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\gcd_lcm.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\inclusive_scan.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\inner_product.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\iota.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\midpoint.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\partial_sum.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\reduce.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\transform_exclusive_scan.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\transform_inclusive_scan.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__numeric\transform_reduce.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\extreme_value_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\fisher_f_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\geometric_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\negative_binomial_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\poisson_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\normal_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\independent_bits_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\knuth_b.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\shuffle_order_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\lognormal_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\mersenne_twister_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\piecewise_constant_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\piecewise_linear_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\random_device.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\ranlux.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\subtract_with_carry_engine.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\seed_seq.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\student_t_distribution.h \
+  c:\program\ files\ (x86)\embarcadero\studio\23.0\include\x86_64-w64-mingw32\c++\v1\__random\weibull_distribution.h \
   C:\Users\jyoth\Desktop\Unit1.h \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\rtl\Classes.hpp \
   c:\program\ files\ (x86)\embarcadero\studio\23.0\include\windows\vcl\Controls.hpp \

@@ -13,7 +13,7 @@ object Form2: TForm2
   TextHeight = 15
   object Generate: TButton
     Left = 368
-    Top = 81
+    Top = 89
     Width = 329
     Height = 177
     Caption = 'Generate Sudoko'
